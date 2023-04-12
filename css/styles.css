@@ -12,9 +12,19 @@ header {
     background: #1f1f1f;
     padding: 10px 50px; 
 }
+#logo {
+    width: 50px;
+}
+#logo img {
+   border-radius: 100%;
+}
 
 .image-container {
     display: flex;
+}
+
+.image-container img {
+    width: 100%;
 }
 
 
